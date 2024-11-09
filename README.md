@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @armrosadev1991
-- 👀 I’m interested in Data Science, ML OPS, Machine Learning, AI, Deep Learning  
+- 👀 I’m interested in Data Science, ML OPS, Machine Learning, AI, Deep Learning,Data Engineering
 - 🌱 I’m currently learning Advanced NLP tecnhiques
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me :
