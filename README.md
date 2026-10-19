@@ -34,7 +34,7 @@ I use AI to help me build better pipelines, faster:
 I write about data engineering in practice:
 
 - [Medium](https://medium.com/@antniorosa)
-- [Blog](https://personal-blog-topaz-sigma.vercel.app)
+- [Blog](https://antoniorosa.dev)
 
 ### 📫 Get in touch
 
